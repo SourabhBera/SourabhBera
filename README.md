@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SourabhBera
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on MERN
+- 💞️ I’m looking to collaborate on Python Django
 - 📫 If you want to reah me you can mail me on sourabhbera86@gmail.com
 
 
